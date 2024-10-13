@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201708/04/17/5ced31536273bed685f9f10a956145e5_big.jpg" group-title="原创IP", 牛叔说电影
-https://www.goodiptv.club/douyu/2758565
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202205/cef97ee7b4b04289b308331bb4f4b103_big.jpg" group-title="一起看", Lisite清酒
 https://www.goodiptv.club/douyu/3688591
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201802/03/18/7040873fd91e01c09fa1706d39f314b4_big.jpg" group-title="原创IP", 小片片说大片
-https://www.goodiptv.club/douyu/4258555
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/bb169861fa7d47b1b62fa3c083a0ce97_big.jpg" group-title="原创IP", 火龙果说电影
-https://www.goodiptv.club/douyu/9559158
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/4b45f49560f948f29948118fa690d53d_big.jpg" group-title="原创IP", 万合出品
 https://www.goodiptv.club/douyu/9220456
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/2b563d3022724071a036818dc3220035_big.jpg" group-title="一起看", 小鹿奈iris
@@ -45,14 +39,10 @@ https://www.goodiptv.club/douyu/434971
 https://www.goodiptv.club/douyu/9734098
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202111/48f207af4aa941fc9fabd2dbb8b4dd8a_big.jpg" group-title="一起看", bbox达人
 https://www.goodiptv.club/douyu/428402
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/1627d981c5434781bf677ad58a863f03_big.jpg" group-title="原创IP", 虫哥说电影
-https://www.goodiptv.club/douyu/8915074
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202007/ac2ec21374664a9ca0bfe3851a5fdeb3_big.jpg" group-title="原创IP", 开心锤锤动漫
 https://www.goodiptv.club/douyu/9018297
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/0be6271f31464d6fbfd775c33e372753_big.jpg" group-title="原创IP", 篮球人物
 https://www.goodiptv.club/douyu/8434598
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/63d200e41a3d46eab493a95ce83f2489_big.jpg" group-title="一起看", 爱情公寓vip006
-https://www.goodiptv.club/douyu/11404041
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/13a0b26f642a4231ad377040d1c58d07_big.jpg" group-title="一起看", 伊太刀刀
 https://www.goodiptv.club/douyu/747764
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202211/2c8ea1a6bbe944e3b3ed5c0834639729_big.jpg" group-title="一起看", 爱情公寓vip
@@ -61,15 +51,11 @@ https://www.goodiptv.club/douyu/6863367
 https://www.goodiptv.club/douyu/9639225
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201701/22/12/a0dbeb1ed6571326fe7bf837a44bfdb8_big.jpg" group-title="一起看", UU娇哒哒呀
 https://www.goodiptv.club/douyu/96577
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202108/3de150a0236b4a87a9c0377e59955970_big.jpg" group-title="我的世界", 睡不着的小圆子
-https://www.goodiptv.club/douyu/6566658
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202305/67045cf38d4a40d9be1db5854279b23c_big.jpg" group-title="一起看", 周杰伦颜老师
-https://www.goodiptv.club/douyu/7537296
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201806/d331e3226e639bfc3779ebd0704f6c03_big.jpg" group-title="一起看", 傲娇的虾虾
 https://www.goodiptv.club/douyu/338759
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202304/79adbf3734574582bc35a0131b4a5eca_big.jpg" group-title="一起看", 蒲蚂蚱
 https://www.goodiptv.club/douyu/6079455
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/03d16109b272403eb6dd70593e97daf2_big.jpg" group-title="原创IP", 刘老师说电影
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/03d16109b272403eb6dd70593e97daf2_big.jpg" group-title="原创IP", 刘老师电影
 https://www.goodiptv.club/douyu/8317926
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201706/19/12/313baad397254f95edd8a55f07fafa33_big.jpg" group-title="原创IP", 老烟斗鬼故事
 https://www.goodiptv.club/douyu/2337939
@@ -79,8 +65,6 @@ https://www.goodiptv.club/douyu/218859
 https://www.goodiptv.club/douyu/3870925
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202108/9ace3c42d950444c85410a2030513fc8_big.jpg" group-title="一起看", 爱画画的奶糖
 https://www.goodiptv.club/douyu/4346416
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/f1b622249ad24a8fa3d6a5885ece793d_big.jpg" group-title="一起看", 蓝翔老三国
-https://www.goodiptv.club/douyu/7459925
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/9293b975b9f94592ae06e32240109292_big.jpg" group-title="一起看", 吃奶滴虫
 https://www.goodiptv.club/douyu/263824
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/dbbe51786ad54e52bc23ca87a1cca840_big.jpg" group-title="一起看", 懵小七家的姬崽子
@@ -125,13 +109,13 @@ https://www.goodiptv.club/douyu/7925840
 https://www.goodiptv.club/douyu/426517
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/de3639504b754fc6865825bd9e2b863e_big.jpg" group-title="原创IP", 周扒片
 https://www.goodiptv.club/douyu/6434857
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/f33c08484be24c478dc1818bb45c65b9_big.jpg" group-title="原创IP", 星君说电影
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/f33c08484be24c478dc1818bb45c65b9_big.jpg" group-title="原创IP", 星君电影
 https://www.goodiptv.club/douyu/8014467
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/9d0d7e65a9e643908b12c9fb2caa57af_big.jpg" group-title="原创IP", 宇宙探索飞船
 https://www.goodiptv.club/douyu/9456028
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/b8f25e9276494ce185b9254ffa89786d_big.jpg" group-title="一起看", 菜园小饼QvQ
 https://www.goodiptv.club/douyu/1735337
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/ad7a03ce2b8e497bb19aa26f63c6bac4_big.jpg" group-title="原创IP", 史君说剧
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/ad7a03ce2b8e497bb19aa26f63c6bac4_big.jpg" group-title="原创IP", 史君剧
 https://www.goodiptv.club/douyu/9419771
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202109/5af61b8c3ee546c481fbf73e0eec338a_big.jpg" group-title="一起看", TT丶奋斗
 https://www.goodiptv.club/douyu/10120371
@@ -1903,8 +1887,6 @@ https://www.goodiptv.club/douyu/9186596
 https://www.goodiptv.club/douyu/9516137
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201704/25/10/ab8db2dd9433031bfa6ee3e50551ef75_big.jpg" group-title="一起看", 千恨凝
 https://www.goodiptv.club/douyu/11483118
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201708/07/18/166273d2139658f431a6bbfb86eb64e8_big.jpg" group-title="一起看", 爱情公寓回忆录
-https://www.goodiptv.club/douyu/11528591
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/98eb449ef1ca43e9bdc89344b3d1abe6_big.jpg" group-title="一起看", 掌上Club
 https://www.goodiptv.club/douyu/1770806
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201711/09/13/ff5d864bfd6455b91feae36e326419b3_big.jpg" group-title="原创IP", 蓦然丶轻叹
